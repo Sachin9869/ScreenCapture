@@ -1,0 +1,11 @@
+E:\Csharpcorner\CaptureScreenShots\CaptureScreenShots\bin\CaptureScreenShots.dll
+E:\Csharpcorner\CaptureScreenShots\CaptureScreenShots\bin\CaptureScreenShots.pdb
+E:\Csharpcorner\CaptureScreenShots\CaptureScreenShots\obj\Debug\CaptureScreenShots.dll
+E:\Csharpcorner\CaptureScreenShots\CaptureScreenShots\obj\Debug\CaptureScreenShots.pdb
+E:\Downloads\Proj\CaptureScreenShots\CaptureScreenShots\bin\CaptureScreenShots.dll.config
+E:\Downloads\Proj\CaptureScreenShots\CaptureScreenShots\bin\CaptureScreenShots.dll
+E:\Downloads\Proj\CaptureScreenShots\CaptureScreenShots\bin\CaptureScreenShots.pdb
+E:\Downloads\Proj\CaptureScreenShots\CaptureScreenShots\obj\Debug\CaptureScreenShots.csproj.AssemblyReference.cache
+E:\Downloads\Proj\CaptureScreenShots\CaptureScreenShots\obj\Debug\CaptureScreenShots.csproj.CoreCompileInputs.cache
+E:\Downloads\Proj\CaptureScreenShots\CaptureScreenShots\obj\Debug\CaptureScreenShots.dll
+E:\Downloads\Proj\CaptureScreenShots\CaptureScreenShots\obj\Debug\CaptureScreenShots.pdb
